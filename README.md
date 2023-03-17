@@ -4,6 +4,8 @@ MkvCinemas Scrapper Powered By TechZApi
 
 ### Requirements
 
+TechZApi Wrapper : ```pip install -U techzapi```
+
 API_KEY : Create your own key, from [here](https://telegram.me/TechZApiBot)
 
 ### Usage
